@@ -4,5 +4,6 @@
     "dotenv-webpack": "^8.0.1",
     "express": "^4.18.2",
     "path": "^0.12.7"
-  }
+  },
+  "build": "webpack --mode production"
 }
