@@ -1,2 +1,5 @@
 # not exposing API credentials
 .env
+
+# node dependencies
+node_modules/
