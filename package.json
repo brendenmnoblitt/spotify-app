@@ -5,5 +5,7 @@
     "express": "^4.18.2",
     "path": "^0.12.7"
   },
-  "build": "webpack --mode production"
+  "scripts": {
+    "build": "webpack --mode production"
+  }
 }
