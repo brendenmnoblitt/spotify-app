@@ -1,6 +1,6 @@
 const Dotenv = require("dotenv-webpack");
 
 module.exports = {
-  // ... other Webpack configuration options ...
+  entry: "./src/main.js",
   plugins: [new Dotenv()],
 };
