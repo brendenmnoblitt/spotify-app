@@ -1,5 +1,5 @@
-CLIENT_ID = "ab5c52b6285a45638647911ec91e9e54";
-CLIENT_SECRET = "632235f4d25346d6a551d12e500ba70a";
+CLIENT_ID = "xxxxxxxxxxxxxx";
+CLIENT_SECRET = "xxxxxxxxxxxxxxxx";
 
 function fetchSpotifyToken() {
   return fetch("https://accounts.spotify.com/api/token", {
